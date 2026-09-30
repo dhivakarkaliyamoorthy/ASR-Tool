@@ -4,7 +4,7 @@ An **ASR (Automatic Speech Recognition)** project that lets a student ask a time
 
 ### Example
 
-> 🎤 "What class do I have at 10 AM?"
+>  "What class do I have at 10 AM?"
 
 The application converts the spoken question into text, extracts the requested time, searches the stored timetable, and responds with the class and room.
 
@@ -60,8 +60,6 @@ voice-based-timetable-assistant/
 git clone https://github.com/YOUR-USERNAME/voice-based-timetable-assistant.git
 cd voice-based-timetable-assistant
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 
@@ -225,8 +223,8 @@ You have Database Management Systems from 10:00 AM to 11:00 AM in Room 204.
 
 | S. No. | Name | Register Number |
 |---:|---|---|
-| 1 | Shreyas | 12345678 |
-| 2 | Iyer | 2333 |
+| 1 | Mamalaivasan H | RA2311003050208 |
+| 2 | Dhivakar K | RA2311003050115 |
 
 ## License
 
