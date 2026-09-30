@@ -1,0 +1,86 @@
+[
+    {
+        "day": "Monday",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "subject": "Computer Networks",
+        "room": "CSE Lab 1"
+    },
+    {
+        "day": "Monday",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "subject": "Database Management Systems",
+        "room": "Room 204"
+    },
+    {
+        "day": "Monday",
+        "start_time": "11:15",
+        "end_time": "12:15",
+        "subject": "Operating Systems",
+        "room": "Room 105"
+    },
+    {
+        "day": "Tuesday",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "subject": "Python Programming",
+        "room": "Programming Lab"
+    },
+    {
+        "day": "Tuesday",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "subject": "Software Engineering",
+        "room": "Room 302"
+    },
+    {
+        "day": "Tuesday",
+        "start_time": "11:15",
+        "end_time": "12:15",
+        "subject": "Artificial Intelligence",
+        "room": "Room 210"
+    },
+    {
+        "day": "Wednesday",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "subject": "Computer Networks",
+        "room": "Room 201"
+    },
+    {
+        "day": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "subject": "Data Analytics",
+        "room": "Room 205"
+    },
+    {
+        "day": "Thursday",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "subject": "Web Technology",
+        "room": "Web Lab"
+    },
+    {
+        "day": "Thursday",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "subject": "Cloud Computing",
+        "room": "Room 301"
+    },
+    {
+        "day": "Friday",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "subject": "Machine Learning",
+        "room": "AI Lab"
+    },
+    {
+        "day": "Friday",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "subject": "Software Project",
+        "room": "Project Lab"
+    }
+]
